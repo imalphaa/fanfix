@@ -1,0 +1,13 @@
+Test Cases Documentation
+
+Test Case ID	Test Case Description	                                               Severity	Priority
+
+TC01	        Verify login functionality with valid credentials	                   Critical	High
+TC02	        Verify navigation to "New Post" page	                               Major	High
+TC03	        Verify the post caption input functionality	                           Major	Medium
+TC04	        Verify the functionality of adding media to the post	               Major	High
+TC05	        Verify the upload media functionality	                               Major	High
+TC06	        Verify the selection and addition of uploaded media	                   Major	High
+TC07	        Verify setting subscription and non-subscription price	               Critical	High
+TC08	        Verify the post button is enabled when custom amount is $5	           Critical	High
+TC09	        Verify the post creation functionality and successful post creation	   Critical	High
